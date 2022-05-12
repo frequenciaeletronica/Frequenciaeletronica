@@ -7,10 +7,10 @@
   <li>Registra os alunos cadastrados na aula</li>
   <li>Faz a remoção e adição de alunos que entram e saem da escola</li>
   <li>Tem uma página que mostra o perfil de cada aluno cadastrado na turma e seus dados.</li>
+  <li>Área de adicionar observações e justificativas de alunos.</li>
   <li>Gráfico de presença de cada aluno.</li>
-  <!--<li></li>-->
 </ul>
-<!--<h2>Como entrar em contato com a equipe.</h2>
+<h2>Como entrar em contato com a equipe.</h2>
 <ul>
-<li></li>
-</ul>-->
+<li>Instagram: https://www.instagram.com/frequencia_digital2/</li>
+</ul>
