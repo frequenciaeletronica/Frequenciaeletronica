@@ -10,6 +10,8 @@
   <li>Área de adicionar observações e justificativas de alunos.</li>
   <li>Gráfico de presença de cada aluno.</li>
 </ul>
+<h1>Protótipo de alta fidelidade</h1>
+
 <h2>Como entrar em contato com a equipe.</h2>
 <ul>
 <li>Instagram: https://www.instagram.com/frequencia_digital2/</li>
