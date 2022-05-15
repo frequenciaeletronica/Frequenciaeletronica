@@ -14,5 +14,5 @@
 ![prototipoaltafidel](https://user-images.githubusercontent.com/104368552/168193931-dc6821fa-eae5-4b4e-96d0-12082d7c08c5.png)
 <h2>Como entrar em contato com a equipe.</h2>
 <ul>
-<li>Instagram: https://www.instagram.com/frequencia_digital2/</li>
+<li>Instagram: https://www.instagram.com/frequencia_eletronica2/</li>
 </ul>
