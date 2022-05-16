@@ -11,9 +11,7 @@
   <li>Gráfico de presença de cada aluno.</li>
 </ul>
 <h1>Protótipo de alta fidelidade</h1>
-<ul>
-<li>![Prototipaltafid](https://user-images.githubusercontent.com/104368552/168488374-c8e2b418-4faa-4406-98b3-ddbfcf963016.jpeg)</li>
-</ul>
+![WhatsApp Image 2022-05-16 at 09 18 11](https://user-images.githubusercontent.com/104368552/168591169-f7483c2b-d675-4039-9806-c13f0271fd8e.jpeg)
 <h2>Como entrar em contato com a equipe.</h2>
 <ul>
 <li>Instagram: https://www.instagram.com/frequencia_eletronica2/</li>
